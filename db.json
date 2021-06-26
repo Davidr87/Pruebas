@@ -2,11 +2,27 @@
   "Get": [
     {
       "id": 1,
-      "Value": "hello"
+      "Value": "Ingeneria de Sistemas"
     },
     {
       "id": 2,
-      "Value": "Dos"
+      "Value": "Contabilidad"
+    },
+    {
+      "id": 3,
+      "Value": "Administracion de Empresas"
+    },
+    {
+      "id": 4,
+      "Value": "Derecho"
+    },
+    {
+      "id": 5,
+      "Value": "Licenciatura en Lenguas"
+    },
+    {
+      "id": 6,
+      "Value": "Filosofia"
     }
   ],
   "profile": {
