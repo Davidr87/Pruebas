@@ -2,10 +2,12 @@
   "Get": [
     {
       "id": 1,
-      "Value": "hello"
+      "Value": "Ingeneria de Sistemas"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  [
+    {
+      "id": 2,
+      "Value": "Contabilidad"
+    }
+  ]
