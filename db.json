@@ -1,11 +1,15 @@
-[
-  {
-    "id": 1,
-    "Value": "hello"
-  },
-  {
-    "id": 2,
-    "Value": "Dos"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+       {
+      "id": 2,
+      "title": "Dos"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  
-]
+}
