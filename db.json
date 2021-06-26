@@ -23,6 +23,15 @@
     {
       "id": 6,
       "Value": "Filosofia"
+    },
+    {
+      "id": 7,
+      "Value": "Quimica"
+    }
+    ,
+    {
+      "id": 8,
+      "Value": "Economia"
     }
   ],
   "profile": {
