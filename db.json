@@ -1,9 +1,10 @@
 {
   "Get": [
     {
+      "CUSTOMER_IDENTITY_NUMBER": 123
       "id": 1,
       "Value": "Ingeneria de Sistemas",
-      "CUSTOMER_IDENTITY_NUMBER": 1
+      
     },
     {
       "id": 2,
