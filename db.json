@@ -1,40 +1,25 @@
 {
   "Get": [
-    {
-      
-      "id": 1,
-      "Value": "Ingeneria de Sistemas",
-      "CUSTOMER_IDENTITY_NUMBER": 123
-    },
-    {
-      "id": 2,
-      "Value": "Contabilidad"
-    },
-    {
-      "id": 3,
-      "Value": "Administracion de Empresas"
-    },
-    {
-      "id": 4,
-      "Value": "Derecho"
-    },
-    {
-      "id": 5,
-      "Value": "Licenciatura en Lenguas"
-    },
-    {
-      "id": 6,
-      "Value": "Filosofia"
-    },
-    {
-      "id": 7,
-      "Value": "Quimica"
-    }
-    ,
-    {
-      "id": 8,
-      "Value": "Economia"
-    }
+   {
+    "Id": 13213,
+    "Value": "ANÃLISIS DE REDES SOCIALES"
+  },
+  {
+    "Id": 14882,
+    "Value": "GESTIÃ“N DE LA CADENA DE SUMINISTRO"
+  },
+  {
+    "Id": 11554,
+    "Value": "LOGÃSTICA"
+  },
+  {
+    "Id": 11447,
+    "Value": "OPCIÃ“N DE GRADO 1(INGENIERÃA)"
+  },
+  {
+    "Id": 11553,
+    "Value": "PRACTICA DE INGENIERIA V INDUSTRIAL"
+  }
   ],
   "profile": {
     "name": "typicode"
